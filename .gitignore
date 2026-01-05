@@ -1,3 +1,24 @@
+# Data files (large files not to be tracked)
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+!requirements*.txt
+
+# Model files
+models/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Google Colab
+.colab/
+sample_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

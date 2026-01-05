@@ -1,0 +1,9 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Jupyter
+jupyter
+ipykernel
